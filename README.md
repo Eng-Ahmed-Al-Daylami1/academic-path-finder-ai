@@ -3,6 +3,8 @@
 
 > **An intelligent career guidance system using Expert Systems, Forward/Backward Chaining, BFS/DFS algorithms, and Google Gemini AI for personalized tech career recommendations.**
 
+> 🎓 **Note**: This is a simple university assignment developed for the Artificial Intelligence course (4th Year IT, 2024-2025).
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-green.svg)](https://github.com/TomSchimansky/CustomTkinter)
 [![Gemini AI](https://img.shields.io/badge/AI-Google%20Gemini-orange.svg)](https://ai.google.dev/)
@@ -64,7 +66,7 @@ This is a **complete AI-powered career advisor** that combines:
 - **Career counselors** providing data-driven advice
 - **AI instructors** teaching expert systems
 
-### 👨‍💻 Developers
+### 👨💻 Developers
 - Learning **expert system** implementation
 - Understanding **AI reasoning** techniques
 - Building **knowledge-based systems**
@@ -282,12 +284,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
+## 👨💻 Author
 
 **Ahmed Al-Daylami**
-- 🎓 **University Project** - Artificial Intelligence Course Assignment
-- 📚 4th Year Computer Science Student
-- 🏫 Academic Year: 2024-2025
+- 🎓 **Simple University Assignment** - Artificial Intelligence Course
+- 📚 4th Year IT Student
+- 🏫 Community College - Sana'a
+- 📅 Academic Year: 2024-2025
 - 📍 Yemen
 
 ---
