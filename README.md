@@ -98,7 +98,7 @@ This project demonstrates:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/academic-path-finder-ai.git
+git clone https://github.com/Eng-Ahmed-Al-Daylami1/academic-path-finder-ai.git
 cd academic-path-finder-ai
 ```
 
@@ -284,9 +284,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- University Project - 4th Year AI Course
-- Year: 2024-2025
+**Ahmed Al-Daylami**
+- 🎓 **University Project** - Artificial Intelligence Course Assignment
+- 📚 4th Year Computer Science Student
+- 🏫 Academic Year: 2024-2025
+- 📍 Yemen
 
 ---
 
