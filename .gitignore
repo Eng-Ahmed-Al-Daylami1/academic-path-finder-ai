@@ -1,0 +1,30 @@
+# Environment variables (API Keys)
+.env
+
+# User data
+user_memory.json
+
+# Development logs
+q-dev-chat-*.md
+
+# Amazon Q files
+.amazonq/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
