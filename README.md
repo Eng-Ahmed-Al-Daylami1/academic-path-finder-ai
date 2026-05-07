@@ -297,9 +297,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Google Gemini AI for natural language processing
 - CustomTkinter for the modern GUI framework
-- Academic advisors and domain experts for knowledge base validation
 
 ---
 
